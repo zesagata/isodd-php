@@ -1,0 +1,10 @@
+{
+    "name": "zesagata/isoddphp",
+    "authors": [
+        {
+            "name": "zesagata",
+            "email": "zezagata17@gmail.com"
+        }
+    ],
+    "require": {}
+}
