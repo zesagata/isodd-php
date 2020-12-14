@@ -6,5 +6,11 @@
             "email": "zezagata17@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "zesagata\\isoddphp\\": "src/"
+        }
+    },
     "require": {}
 }
